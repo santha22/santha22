@@ -3,6 +3,7 @@
 - 🌱 I've key skills in MERN stack development
 - ✨ I've good knowledge in data structures and algorithm through python
 - 💞️ I’m looking to collaborate on open source projects
+- ✎ Here my resume https://drive.google.com/file/d/1br8-zunKuugj2GMxSskOHVD8WAR9nxZW/view?usp=drive_link
 - 📫 You can reach by my linkedin profile https://www.linkedin.com/in/santha-kumar20/
 
 <!---
