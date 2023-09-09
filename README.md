@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @santha22
-- 👀 I’m interested in fullstack development(MERN)
-- 🌱 I’m currently learning MERN stack and DSA with python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m currently looking for ReactJS developer role 
+- 🌱 I've key skills in MERN stack development
+- ✨ I've good knowledge in data structures and algorithm through python
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 You can reach by my linkedin profile https://www.linkedin.com/in/santha-kumar20/
 
 <!---
